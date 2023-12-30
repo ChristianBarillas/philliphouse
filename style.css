@@ -1,0 +1,16 @@
+body{
+    background-color: black
+}
+.container1 img {
+ 
+        max-width: 100%;          
+        height: auto;            
+        transform: rotate(90deg);  
+    
+    
+}
+
+.container1 {
+    width: 1080px;             
+    height: 1920px;           
+}
